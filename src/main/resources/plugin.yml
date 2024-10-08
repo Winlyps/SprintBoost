@@ -1,0 +1,5 @@
+name: SprintBoost
+version: '1.0.0'
+main: winlyps.sprintBoost.SprintBoost
+api-version: '1.16'
+authors: [ Winlyps ]
